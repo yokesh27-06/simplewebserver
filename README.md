@@ -96,7 +96,8 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-06-10 135723.png>)
+<img width="895" height="442" alt="Screenshot 2025-08-29 212401" src="https://github.com/user-attachments/assets/87e5ec43-a28a-4e98-8f8f-6b9582c702f7" />
+
 
 
 ## RESULT:
