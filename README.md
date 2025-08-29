@@ -42,7 +42,7 @@ Reg no       :212224230312
 from http.server import HTTPServer,BaseHTTPRequestHandler
 content='''
 <!doctype html>
-<html>
+<html>vl
 <head>
     <title>My Web Server</title>
 </head>
